@@ -1,0 +1,11 @@
+Product,StockAvailable,ReorderLevel,UnitCost,Supplier,WastedUnits
+Cappuccino,34,24,65,supplier a,3
+Latte,82,21,75,Supplier D,9
+Espresso,45,21,35,Supplier A,9
+Americano,87,14,40,Supplier C,11
+Green Tea,62,18,25,Supplier A,1
+Black Tea,13,25,15,Supplier B,6
+Croissant,63,10,40,Supplier B,11
+Blueberry Muffin,72,23,45,Supplier B,5
+Chocolate Cake,55,30,60,Supplier D,6
+Sandwich,18,13,90,Supplier B,5
